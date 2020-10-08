@@ -1,0 +1,9 @@
+.video-container {
+    padding: 2px 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.video-container-list {
+    display: flex;
+}
